@@ -1,0 +1,11 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background:linear-gradient(to right, orange,orangered) ;
+}
+li{
+    display: inline-block;
+    margin: 1rem;
+    cursor: pointer;
+}
